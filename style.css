@@ -1,0 +1,24 @@
+h1{
+    background-color: #C7DCA7;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+html{
+    background-color: #FFEBD8;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width:700px;
+}
+button{
+    font-family: 'Playfair Display', serif;
+    color:white;
+    background: #8EACCD;
+}
+p{
+    font-family: 'Playfair Display', serif;
+    color: black;
+}
+h2{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
